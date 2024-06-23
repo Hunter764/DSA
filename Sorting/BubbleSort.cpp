@@ -54,3 +54,8 @@ int main(){
     }
     return 0;
 }
+
+
+// Time Complexity: O(N2) for the worst and average cases and O(N) for the best case. Here, N = size of the array.
+
+// Space Complexity: O(1)
